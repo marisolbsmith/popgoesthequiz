@@ -16,7 +16,7 @@ var questions_answers = [
     "answer2",
   ],
   [
-    "What attribute in the <script> element must point to a copy of jQuery?",
+    "What attribute in the script element must point to a copy of jQuery?",
     "src",
     "href",
     "onclick",
