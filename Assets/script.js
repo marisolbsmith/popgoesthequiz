@@ -1,6 +1,6 @@
 var questions_answers = [
   [
-    "What is Jquery",
+    "What is Jquery?",
     "is a fast, small, and feature-rich JavaScript library.",
     "scripting or programming language that allows you to implement complex features on web pages",
     "All of the above",
@@ -23,7 +23,7 @@ var questions_answers = [
     "script",
     "answer1",
   ],
-  ["What character is an alias in jQuery", "?", "()", "!", "$", "answer4"],
+  ["What character is an alias for jQuery", "?", "()", "!", "$", "answer4"],
   [
     "What does following code do $( document ).ready(function()",
     "The page can be manipulated  until the document is ready.",
